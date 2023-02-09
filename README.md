@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tarandeep
 =================================================================================================================================
 
-Passionate about building impactful solutions
+Navigating the intersection of technology, health, and art to ignite progress and betterment.
 ---------------------------------------------
 
 I'm an engineer, developer and designer with a wide variety of interests ranging from software engineering to artificial intelligence, machine learning, data analysis, internet of things, and blockchain technology.
