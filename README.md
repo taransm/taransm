@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about building impactful solutions
 ---------------------------------------------
 
-I'm an engineer, developer and designer with a wide variety of interests ranging from software development to Artificial Intelligence, Machine Learning, Data Analysis, Internet of Things, and Blockchain Technology.
+I'm an engineer, developer and designer with a wide variety of interests ranging from software engineering to Artificial Intelligence, Machine Learning, Data Analysis, Internet of Things, and Blockchain Technology.
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyLinkedIn](http://www.linkedin.com/in/tarandeep-mandhiratta/)
