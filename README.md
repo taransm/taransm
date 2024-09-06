@@ -9,7 +9,7 @@ I'm an engineer, developer and designer with a wide variety of interests ranging
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyLinkedIn](http://www.linkedin.com/in/tarandeep-mandhiratta/)
 * ✉️  You can contact me at [2tarandeep@gmail.com](mailto:2tarandeep@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly Spiderman....but don't tell anyone
 
 ### Skills
