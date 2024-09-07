@@ -7,7 +7,7 @@ Navigating the intersection of technology, health, and art to ignite progress an
 I'm an engineer, developer and designer with a wide variety of interests ranging from software engineering to artificial intelligence, machine learning, data analysis, internet of things, and blockchain technology.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [MyLinkedIn](http://www.linkedin.com/in/tarandeep-mandhiratta/)
+* 🖥️  See my portfolio at [tarandeepmandhiratta.com](https://tarandeepmandhiratta.com/)
 * ✉️  You can contact me at [2tarandeep@gmail.com](mailto:2tarandeep@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * 👨‍🍳  When I'm not busy hacking away at my keyboard, you can find me in the kitchen cooking up something new for my friends.
