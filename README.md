@@ -10,7 +10,7 @@ I'm an engineer, developer and designer with a wide variety of interests ranging
 * 🖥️  See my portfolio at [MyLinkedIn](http://www.linkedin.com/in/tarandeep-mandhiratta/)
 * ✉️  You can contact me at [2tarandeep@gmail.com](mailto:2tarandeep@gmail.com)
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm secretly Spiderman....but don't tell anyone
+* 👨‍🍳  When I'm not busy hacking away at my keyboard, you can find me in the kitchen cooking up something new for my friends.
 
 ### Skills
 
