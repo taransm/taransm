@@ -6,6 +6,7 @@ Navigating the intersection of technology, health, and art to ignite progress an
 
 I'm an engineer, developer and designer with a wide variety of interests ranging from software engineering to artificial intelligence, machine learning, data analysis, internet of things, and blockchain technology.
 
+* 💼 Software Engineer at Google
 * 🌍  I'm based in Toronto
 * 🖥️ See my portfolio at [tarandeepmandhiratta.com](https://tarandeepmandhiratta.com/)
 * ✉️ You can contact me at [2tarandeep@gmail.com](mailto:2tarandeep@gmail.com)
